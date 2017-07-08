@@ -1,0 +1,12 @@
+processor/.vs/
+worker/app-worker/obj/Debug/agentProxy.exe
+worker/app-worker/obj/Debug/agentProxy.pdb
+worker/app-worker/obj/
+worker/app-worker/bin/Debug/app-worker.pdb
+worker/app-worker/bin/Debug/app-worker.exe
+worker/app-worker/bin/
+worker/.vs/
+worker/_release/apptest*
+worker/apptest/obj/
+worker/apptest/bin/
+worker/_release/app-worker.pdb
