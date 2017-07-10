@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apptest", "apptest\apptest.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app-worker", "app-worker\app-worker.csproj", "{47F88A4E-DB78-4D94-BCB3-1C3DD6A9AB2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myapp", "myapp\myapp.csproj", "{F1915452-50D6-4B72-9152-CF5AFC36D984}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,14 +31,6 @@ Global
 		{47F88A4E-DB78-4D94-BCB3-1C3DD6A9AB2F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{47F88A4E-DB78-4D94-BCB3-1C3DD6A9AB2F}.Release|x86.ActiveCfg = Release|Any CPU
 		{47F88A4E-DB78-4D94-BCB3-1C3DD6A9AB2F}.Release|x86.Build.0 = Release|Any CPU
-		{F1915452-50D6-4B72-9152-CF5AFC36D984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F1915452-50D6-4B72-9152-CF5AFC36D984}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F1915452-50D6-4B72-9152-CF5AFC36D984}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{F1915452-50D6-4B72-9152-CF5AFC36D984}.Debug|x86.Build.0 = Debug|Any CPU
-		{F1915452-50D6-4B72-9152-CF5AFC36D984}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F1915452-50D6-4B72-9152-CF5AFC36D984}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F1915452-50D6-4B72-9152-CF5AFC36D984}.Release|x86.ActiveCfg = Release|Any CPU
-		{F1915452-50D6-4B72-9152-CF5AFC36D984}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
